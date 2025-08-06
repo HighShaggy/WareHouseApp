@@ -1,0 +1,9 @@
+# Бэкенд
+back/bin/
+back/obj/
+back/.vs/
+
+# Фронтенд
+front/node_modules/
+front/dist/
+front/.env
